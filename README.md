@@ -1,1 +1,2 @@
-# barraki.github.io.marketers
+# Marketers-только практический маркетинг
+https://barraki.github.io/marketers/
